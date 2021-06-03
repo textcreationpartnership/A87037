@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of vvill-vvorship.</title>
+            <author>Hammond, Henry, 1605-1660.</author>
+         </titleStmt>
+         <extent>Approx. 67KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87037</idno><idno type="EEBO-CITATION">99868903</idno>
+  <idno type="VID">121259</idno>
+  <idno type="EEBO-PROQUEST">2240964965</idno>
+  
+            <idno type="STC">Wing H571</idno>
+            <idno type="STC">Thomason E274_6</idno>
+            <idno type="STC">ESTC R210072</idno>
+            <idno type="PROQUEST">99868903</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868903e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121259)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of vvill-vvorship.</title>
+                  <author>Hammond, Henry, 1605-1660.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall printer to the Universitie.,</publisher>
+                  <pubPlace>Oxford, :</pubPlace>
+                  <date>1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Hammond by Wing.</note>
+                  <note>Wing has publication year 1644 only; Thomason catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "by Dr Hen: Hamond"; "March 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121259:1"/>
+            <p>OF WILL-WORSHIP.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <figure>
+               <figDesc>Oxford crest</figDesc>
+               <head>OXONI ENSIS ACADEMIA·</head>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed by HENRY HALL Printer to the UNIVERSITIE. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:121259:2"/>
+            <pb n="1" facs="tcp:121259:2"/>
+            <head>OF WILL-WORSHIP.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>1</label>
+               <seg rend="decorInit">T</seg>He word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Will-worship,</hi> hath for some time had the ill for<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>une to passe under an ill notion, and be taken for some<g ref="char:EOLhyphen"/>what <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eproveable in a Christian: how just<g ref="char:EOLhyphen"/>ly. I shall briefly enquire.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>2</label> That this word is not used in the Greeke Translatours of the Old Testament, or the Apocriphall Authours, (no not so much as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of which it is compounded, but once or twice in the Booke of <hi>Wisedome</hi>) will be acknowlodged by any which shall make enquiry: and therefore it cannot be expected, it should receive any light from thence. And in the new Testament, it is an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but once used. <hi>Col.</hi> 2.23. and for other Authors it may suffice to have observed, that it is not used by any, but those who (in all probability) have it from this place of Saint <hi>Paul.</hi> And so the result of this enquiry will be, how it is used, and what it signifieth in this one place; which must be done by examining the context.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>3</label> The Apostles discourse in that place is of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>doctrines of men,</hi> teaching somethings to be forbidden by God, that God forbiddeth not; where yet you must observe, he doth not speak of commands, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doctrines; <hi>i. e.</hi> not of the prohibition of the Magistrate expressed by any act of positive humane Law (which in indifferent things is permitted to him to interpose, and be<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:121259:3"/> so interposed, by vertue of the Apostles precept for obedi<g ref="char:EOLhyphen"/>ence will have the power of obliging;) But of false teachers imposing them upon their brethren, as Gods commands, when they are not; this is called <hi>Dogmatizing</hi> in this place. <hi>v.</hi> 20. (and <hi>teaching fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doctrines the traditions of men, Matth.</hi> 15.9. which if the Magistrate should doe, he should thereby incurre the censure of a false teacher also) <hi>i. e.</hi> (as it is cleare by the for<g ref="char:EOLhyphen"/>mer part of the Chapter, and particularly, <hi>v.</hi> 16.) urging some abolish't Ceremonies as still in force by divine precept, which whosoever doth, he tels them, <hi>Gal.</hi> 5.2. <hi>That Christ shall pro<g ref="char:EOLhyphen"/>fit them nothing:</hi> upon this ground, th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Christ</hi> comming, as the substance typified by those legall Institutions, did consequently set a period to the obligeingnesse of those Institutions; which, if it should be still urged, would be <hi>interpretative</hi> the denying of Christ, and so most justly the forfeiting those benefits, which are to be expected from him; and therefore though Saint <hi>Paul</hi> might lawfully (and did) circumcise <hi>Timothy,</hi> yet the urging of Circumcision, (or any such Judaicall rite, which Christ meant to abrogate) for a Doctrine, or teaching that it was then necessary for Christians, was in his opinion the denying of Christ: in like manner, as the teaching the abrogation of any of the morall Commandements, meant by <hi>the Law and the Pro<g ref="char:EOLhyphen"/>phets, Mat.</hi> 5.17. which Christ meant not to abrogate by his comming, is on the other side censured as a most unchristian thing. <hi>v.</hi> 19. and a kind of denying of Christ also.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>4</label> This will by the way explaine that difference (convenient to be premised) betwixt making of positive humane Lawes in<g ref="char:EOLhyphen"/>indifferent things (which the frequent commands of <hi>obeying Magistrates</hi> presuppose to be Lawfull; for if there were no legality in the giving of such commands, the obedience to them being given could not be imposed on Conscience, as it is <hi>Rom.</hi> 13.5. And if the matter of the Command were before commanded by God, 'twere then no longer obedience to the law of the Magistrate, but onely to God: and for an example of this even in matters of Religion, take the example of <hi>David,</hi> who 1 <hi>Chron.</hi> 23. <hi>v.</hi> 24, and 27. numbred the Levites, or ap<g ref="char:EOLhyphen"/>pointed them to serve and doe the worke of the house of the
+<pb n="3" facs="tcp:121259:3"/> Lord from the age of twenty yeares and upward (upon a ground there specified <hi>v.</hi> 25.) whereas by the command of God to <hi>Moses, Num.</hi> 8.24. this service belong'd to the Levites, but from twenty five yeares old and upward, till the age of fifty yeares, and then they shall cease waiting, <hi>v.</hi> 25.) and ur<g ref="char:EOLhyphen"/>ging or teaching things for divine commands, which either ne<g ref="char:EOLhyphen"/>ver were commanded by God, or else are now out-dated, and the obligingnesse taken from them by Christ. The latter of these is it on which the discourse of the Apostle proceeds here, without any reflection on the former.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>5</label> His meaning in this particular he farther expresseth, by na<g ref="char:EOLhyphen"/>ming some formes of those dogmatizers, <hi>vers.</hi> 21. <hi>[touch not, tast not, handle not]</hi> noting thereby those kinds of doctrine, which affirme men obliged to fasting, or abstinence from such or such meats (the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to touch, signifying to eate a<g ref="char:EOLhyphen"/>mong good authors) which now 'tis by Christ made free to all men to use <hi>fine discrimine.</hi> Then <hi>v.</hi> 22. he passeth a censure on such dogmatizing, and on all such out-dated, yet continued legall performances [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>all which are to de<g ref="char:EOLhyphen"/>struction: i. e.</hi> destructive or dangerous, (not as we render it <hi>[all which are to perish)</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by the abuse (not as we ren<g ref="char:EOLhyphen"/>der it [with the using) The Originall enforces no such sense, and the way of interpretation that is ordinarily affixt to that sense [the perishing of the meat by going out into the draught] (when the Apostle speakes not of the meat, but of the com<g ref="char:EOLhyphen"/>mands of abstaining) makes the sence sufficiently improbable. The full importance of the words is, that when these abstinen<g ref="char:EOLhyphen"/>ces are thus imposed and taught, as divine obliging precepts, this is an <hi>abuse</hi> of them (which were otherwise innocent things) and that abuse annext makes the very use of them dan<g ref="char:EOLhyphen"/>gerous or destructive▪ which is the sense of what the Latine Fathers, Saint <hi>Austine,</hi> and Saint <hi>Ambrose</hi> have said on this place: <hi>sunt in interitum &amp; aeternam perditionem, si credant ea necessaria ad salutem, They are to destruction, and eternall perdi<g ref="char:EOLhyphen"/>tion to them that beleeve them necessary to salvation.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>6</label> Having thus set a marke on them for caution, he addes a distinct specification of that which makes them so dangerous,
+<pb n="4" facs="tcp:121259:4"/> or destructive (which in themselves were not) [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>after the commandements and do<g ref="char:EOLhyphen"/>ctrines of men.</hi>] which words, whether they be annext to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vers.</hi> 20. (The middle words being read in a Parenthe<g ref="char:EOLhyphen"/>sis, as our English reads them) or whether to the immediately precedent, they do point out that wherein the danger doth consist, to wit, imposing on men humane <hi>ordinances</hi> or <hi>do<g ref="char:EOLhyphen"/>ctrines: i. e.</hi> those things, which though they are not com<g ref="char:EOLhyphen"/>manded by God, are yet by men affirmed, and pretended, and taught (though as we say, magisterially, or without proofe) to be so <hi>commanded.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>7</label> Having thus farre expressed the danger of taking up such do<g ref="char:EOLhyphen"/>ctrines upon false-Teachers imposing them, the Apostle then by way of close (either to take off the varnish under which they are commended to mens practice, and by which it is made probable to them, that they are commanded; or else to set downe the simple nature of these things abstracted from all such accidentall abuse) addes this briefe description of the do<g ref="char:EOLhyphen"/>ctrines themselves, or the abstinences they teach [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] these words are variously rendred by Interpreters, as having great difficulty in them. The most simple genuine sence methinkes might be this. [which things have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>rationem sapientiae,</hi> some true, at least appearing <hi>notion of wisedome</hi> in them (wisedome in Scripture phrase signifying piety) <hi>i. e.</hi> have either some reall matter of piety in them, (for so <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> signifies: and this would be more cleare, if we should read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, disjoyned, not in one but two words, thus [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. which things have somewhat of piety in them,</hi> or being considered <hi>in some re<g ref="char:EOLhyphen"/>spect</hi> have <hi>piety in them</hi>) or, as the Fathers seeme rather to have understood it, some colour, some appearance of piety; to wit, <hi>in voluntary worship and humility, and severity toward,</hi> or pu<g ref="char:EOLhyphen"/>nishing of <hi>the body:</hi> as the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> signifies: and the mar<g ref="char:EOLhyphen"/>gent of our Bibles acknowledges: and <hi>not in any honour or care of the body</hi> (for so <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the new Testament by an Hebraisme signifies, that honour which is exprest in relieving of wants,
+<pb n="5" facs="tcp:121259:4"/>
+               <hi>Mat.</hi> 15.5. 1 <hi>Tim.</hi> 5.17.) not in administring to the body <hi>omnia necessaria ad saturitatem carnis explendam,</hi> as Saint <hi>Hie<g ref="char:EOLhyphen"/>rome</hi> hath it, all things necessary <hi>to the filling, or stuffing, or satia<g ref="char:EOLhyphen"/>ting of the flesh:</hi> for so <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> signifies. And I confesse I can<g ref="char:EOLhyphen"/>not sufficiently wonder what should move some learned Inter<g ref="char:EOLhyphen"/>preters to explaine that word by <hi>mediocritatem ad simplicem usum restrictam, A mediocrity without any excesse,</hi> when the word in all authors signifieth <hi>satiety</hi> or fulnesse. In <hi>Galen</hi> 'tis used for repletion or surfet: and in all Attick writers for some<g ref="char:EOLhyphen"/>thing like that: which made <hi>Robertus Stephanus</hi> in his Greeke Concordance render it <hi>satietas</hi> in this place: and among the translatours of the old Testament, all the Hebrew words that are rendred by it, are of the same nature, such are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> fatnesse, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>gravamen,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>multiplicare,</hi> and especi<g ref="char:EOLhyphen"/>ally <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>satiatus est,</hi> which is by them 18 times rendred <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>8</label> This last part of the verse is added, I conceive to illustrate the former <hi>à contrario,</hi> and so to shew that there is somewhat of true or pretended piety in those former doctrines by their contrariety to that tending, and filling, and pampering of the flesh, which is so unlike piety or Christianity: and though the connexion of this last clause with the rest be somewhat per<g ref="char:EOLhyphen"/>plext, yet you shall find it but little more cleared by any other interpretation that will be affixt to it; and upon examination I am a little confident, that this which I have given is the most prompt, and proper, and genuine rendring of the verse, that will be met with among interpreters.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>9</label> Which being acknowledged, there will be no doubt or dif<g ref="char:EOLhyphen"/>ficulty in resolving, that there is no ill character set upon <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or will-worship by the Apostle in this place. And if you demand what it is that is noted by it, I answer punctually, That voluntary worship, or acts of Religion, which the He<g ref="char:EOLhyphen"/>brewes call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the free-will offering</hi> often mentioned in the Pentateuch, which was not required of them by any obligati<g ref="char:EOLhyphen"/>on of particular law, and yet was not wont to be condemned or suspected, but accounted as acceptable to God: under which head the abstinences here spoken of may not unfitly be compre<g ref="char:EOLhyphen"/>hended.</p>
+            <pb n="6" facs="tcp:121259:5"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>10</label> For the clearing of all which, I shall first give my reasons for my first assertion, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is here used in a good creditable sence. Secondly, I shall guesse at the grounds, or oc<g ref="char:EOLhyphen"/>casions of the ordinary mistake of it in them that take it for a fault. And thirdly, I shall adde somewhat concerning those vo<g ref="char:EOLhyphen"/>luntary oblations noted by it, as they may be applyable to us Christians.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>11</label> A first reason of my assertion, is, because <hi>will-worship</hi> is here joyned with two, not only lawfull, but laudable Christian ver<g ref="char:EOLhyphen"/>tues: as 1. with <hi>humility,</hi> which being by <hi>Calvin</hi> interpreted in this place <hi>Dei &amp; hominum reverentia,</hi> the reverence both of God and men, is without doubt a Christian vertue (and hath nothing in this place to set an ill character upon it, what ever it may verse 18. being joyned with worship of Angels) and be<g ref="char:EOLhyphen"/>ing so, cannot be so ill company as to defame the will-worship to which it associates, but will rather plead for it, that it is of the same making, a Christian vertue also. Secondly, 'tis joyned with punishing,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> or not sparing, or (as <hi>Calvin</hi> varies the phrase) mortifying of the body, which as an act of selfe-denyall cannot be unacceptable to Christ, and as a species of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>revenge,</hi> 2 <hi>Cor.</hi> 7.11. will deserve to be numbred among the effects of godly sorrow.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>12</label> A second reason is, because these very doctrines of abstinence &amp;c. are here said in respect of the will-worship, &amp;c. discernable in them, to have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>rationem sapientiae,</hi> somewhat of wisedome or piety in them: which [somewhat] if it be reall, according to the former interpretation of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it will then be parallell to that which is said upon the like occasi<g ref="char:EOLhyphen"/>on of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> bodily exercise, 1 <hi>Tim.</hi> 4.8. which doth belong not to the <hi>gymnici agones,</hi> the Olympick exercises, as some contrary to the context would wrest it, but to such kind of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, abstinence, continence, &amp;c. mention'd <hi>v.</hi> 1. which though, when they are taught as necessary (to the defaming of marriage or meats, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, unlawfull and to <hi>be refused, v.</hi> 4. and in the stile of the fathers, and counsells, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>hurtfull</hi> and <hi>abominable</hi>) are then signes of apostasie from the Faith, <hi>v.</hi> 1. yet considered in themselves as voluntary acts, are
+<pb n="7" facs="tcp:121259:5"/> there said to be profitable, or (though in an inferiour degree being compared with piety, yet) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a little pro<g ref="char:EOLhyphen"/>fitable</hi> still, or profitable for a little. But if that interpretation of [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] will not be accepted, but <hi>[speciem] shew of wise<g ref="char:EOLhyphen"/>dome</hi> be required to be taken in its stead, yet will the Argu<g ref="char:EOLhyphen"/>ment be still of validity; For can any thing be said to have so much as a <hi>shew</hi> of wisedome or piety in respect to <hi>will-worship</hi> in it, if that <hi>will-worship</hi> thus pretended, passe confestly either for foolish, or impious? Can any thing be represented to mee as having so much as a <hi>shew</hi> of piety, in respect to rage or lust discernible in it? Certainly, whosoever would make such a recommendation, must, if he speake in earnest, suppose some<g ref="char:EOLhyphen"/>what really of piety in those passions also, or otherwise they cannot impart so much as a <hi>shew of piety</hi> to any thing else.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>13</label> A third reason is, because the Greeke Fathers in their expo<g ref="char:EOLhyphen"/>sitions of <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is place, though they interpret <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, onely of ap<g ref="char:EOLhyphen"/>pear<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hew, as contrary to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, power and truth, or as <hi>Oecumenius</hi> hath it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a bare shew of probability, yet generally they paraphrase will-wor<g ref="char:EOLhyphen"/>ship, and humility, and not sparing of the body by words of good savour. Thus Saint <hi>Chrysostome,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>He appeares pious, and moderate, and a contemner of the body;</hi> and then all the fault is, that he is not truly what he appeares: and <hi>Theophylact</hi> hath the same words, and <hi>Oecumenius</hi> comes very neare <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> pretending (<hi>i. e.</hi> having a shew of) <hi>piety and devotion in worship:</hi> by which 'tis cleare, what no<g ref="char:EOLhyphen"/>tion they had of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to wit, that of devotiousnesse, pi<g ref="char:EOLhyphen"/>ety, the thing which is commended (by that word) in <hi>Symeon, Luk.</hi> 2.25, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, just and devout: and <hi>Act.</hi> 2.5. &amp; 8.2. and prescribed by Saint <hi>Paul Heb.</hi> 12.28. and so sure farre enough from any ill notion; even so farre, that the interpreter of <hi>Clemens Alex:</hi> rendreth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>in religione,</hi>
+               <note place="margin">
+                  <hi>P.</hi> 447.</note> in religion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>14</label> A Fourth reason, because by this way of interpreting, that very obscure place, which hath posed so many, may conveni<g ref="char:EOLhyphen"/>ently be understood, and this prove the importance of it. That
+<pb n="8" facs="tcp:121259:6"/> such doctrines are destructive of Christian religion, in obtrud<g ref="char:EOLhyphen"/>ing humane out-dated <hi>Judaicall</hi> Constitutions, for <hi>divine pre<g ref="char:EOLhyphen"/>cepts,</hi> still obligeing Christians, (as they that urge the necessi<g ref="char:EOLhyphen"/>ty of circumcission, <hi>evacuate the doctrine of the Gospell. Gal.</hi> 5. 2.) and yet in some respects have <hi>piety</hi> in them, at least a <hi>shew of it,</hi> to wit, in <hi>Will-worship, Humility.</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>15</label> A Fifth, because that which <hi>Hesychius</hi> saith of this word, is very agreeable to this interpretation, for he renders <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, voluntary worship or piety (as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a word used, <hi>Eccl.</hi> 19.27. is saith he, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the very notion of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> I told you of, so ordinarily rendred by the 72. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, voluntary guifts, or offerings, or performances.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>16</label> A Sixth, because reason it selfe assures us, that those things which are done in the service of God, are not therefore ill be<g ref="char:EOLhyphen"/>cause they are spontaneous, (the voluntarynesse of <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion is not able to defame it, if there be no <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, no irr<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y im<g ref="char:EOLhyphen"/>putable to the action it selfe, abstracted from the voluntarinesse; there being no <hi>universall negative</hi> command in the Scripture, especially the New Testament, prohibiting all things and de<g ref="char:EOLhyphen"/>grees of things, besides what are in particular commanded) but on the other side, when in the service of God, a man out of a pious affection (of love and gratitude inciting to do things acceptable to God: as well as of feare deterring from all that is prohibited) shall (in conformity to God's <hi>generall</hi> com<g ref="char:EOLhyphen"/>mands, and the doctrine of the Gospell) do any thing else, be<g ref="char:EOLhyphen"/>side what God hath commanded by any particular precept, this action of his, is to be accounted so much more commend<g ref="char:EOLhyphen"/>able and acceptable to God, piety being one of those virtues <hi>quarum tantae sunt amplitudines, ut quantò auctiores sunt, tan<g ref="char:EOLhyphen"/>to sint etiam laudatiores:</hi>
+               <note place="margin">Ageltius noct. Att. l. <hi>4.</hi> c. <hi>9.</hi>
+               </note>
+               <hi>which have such width of compasse, that the larger they are, they are also so much more commendable;</hi> and withall the more <hi>voluntary</hi> and <hi>spontaneous,</hi> the more <hi>accept<g ref="char:EOLhyphen"/>able.</hi> To which that of the sonne of <hi>Syrach</hi> is agreeable. <hi>Eccl.</hi> 43.30. <hi>When you glorifie the Lord, exalt him as much as you can, for even he yet will far exceed; and when you exalt him, put forth all your strength, for you can never go farre enough, i. e.</hi>
+               <pb n="9" facs="tcp:121259:6"/> how farre soever you exceed the <hi>particular</hi> command, you are yet within the compasse of the <hi>generall,</hi> and in respect of that can never be thought to have done enough, though the particular act or the degree of it, be somewhat that you are not particularly obliged to.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>17</label> Having thus vindicated this word from the abuse and re<g ref="char:EOLhyphen"/>proach laid on it, It followes in the second place that I point at the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that which seemes to have caused or oc<g ref="char:EOLhyphen"/>casioned this abuse, and that I conceive to be some one or more of these foure things.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>18</label> 1. That the vulgar Latine translation renders <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Su<g ref="char:EOLhyphen"/>perstitio,</hi> from whence I conceive it is that Master <hi>Calvin</hi> hath taken confidence to say,<note place="margin">ad Gal. c. <hi>3.</hi> t. <hi>9.</hi> p. <hi>171.</hi>
+               </note> that <hi>Superstitio Graecis dicitur</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and Saint <hi>Jerome</hi> agreeable to that translation, (which in this was most probably his,) <hi>Infelices Judaei quantâ superstiti<g ref="char:EOLhyphen"/>one vivant inter nationes, dicentes, ne tetigeris, ne gustaveris,</hi> &amp;c.<note place="margin">Sic &amp; qu. <hi>10.</hi> ad Algas. t. <hi>3.</hi> p. <hi>171.</hi>
+               </note> Whereas the truth is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the Greeke for Superstiti<g ref="char:EOLhyphen"/>on, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> signifies it no more, then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth, which although it be by <hi>Etymologists</hi> deduced from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and so appropriated to some customes of the <hi>Thracians,</hi> and abu<g ref="char:EOLhyphen"/>sively belongs to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, superfluous and curious worships, as <hi>Plutarch</hi> hath it,<note place="margin">In Alex.</note> yet in simplicity of speech signifies worship, and in holy writ is used in this good sence. <hi>Act.</hi> 26.5. <hi>Ja.</hi> 1.27. (and never otherwise but when the adjuncts alter it) and from thence the compound <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, voluntary or spontaneous worship.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>19</label> 2. That as among the Jewes in the time of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>God's immediate praesiding among them,</hi> all was to be done ac<g ref="char:EOLhyphen"/>cording to the paterne <hi>(in monte)</hi> in the mount; so some men have resolv'd themselves and laboured to perswade others, though without any New Testament evidence, (Christ hav<g ref="char:EOLhyphen"/>ing no farther interposed in this matter, nor the Apostles, then that all be done decently and ordinately, and that obedience be paid to the higher powers in those things, wherein the law of nature, and the Gospell hath neither commanded, nor pro<g ref="char:EOLhyphen"/>hibited) that no rite, no circumstance, no degree of worship may be used in the Christian Church, but what hath Christs ex<g ref="char:EOLhyphen"/>ample
+<pb n="10" facs="tcp:121259:7"/> or particular precept to authorize it; which assertion being so irrationall and proofelesse, and yet so resolute not to yeild, hath beene faine to catch at any thing to susteine it, which can come within its reach, and in destitution of other auxiliaries, hath fastened on this (though but sound of) word, and taken advantage by the obscurity of this one text to impose upon easy readers this falsity, that whatever is not command<g ref="char:EOLhyphen"/>ed by Christ by his particular precept, or justified by his exam<g ref="char:EOLhyphen"/>ple, is censurable under the title of Will-worship, though o<g ref="char:EOLhyphen"/>therwise in respect of the matter of it, it would not be censura<g ref="char:EOLhyphen"/>ble. Which conclusion when we consider what small ground it hath in that obscure text thus explained, we shall have little temptation to resolve on, as a foundation to superstruct any o<g ref="char:EOLhyphen"/>ther doctrines upon, (which we must not do but upon plaine un<g ref="char:EOLhyphen"/>doubted texts) or to conclude those actions <hi>criminous,</hi> because <hi>voluntary,</hi> which we may rather most justly conclude justifya<g ref="char:EOLhyphen"/>ble, because not prohibited; and not only so, but also accepta<g ref="char:EOLhyphen"/>ble to God, if agreeable to his generall commands, and the doctrine of the Gospell, and the more acceptable for the vo<g ref="char:EOLhyphen"/>luntarinesse, as being in that parallel to those oblations which are pronounced most acceptable. A passage I have lately ob<g ref="char:EOLhyphen"/>served, which though it be not of any great authority, yet ap<g ref="char:EOLhyphen"/>pearing at the first sight distinctly contrary to my present affir<g ref="char:EOLhyphen"/>mation I have thought not impertinent here to take into consi<g ref="char:EOLhyphen"/>deration. It is in <hi>Photius's</hi> his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> out of <hi>Philostorgius</hi> set set out very lately by <hi>Jacobus Gotofredus</hi> in Greeke and Latine. The words in Latine (which is the language which those who are most subject to be abused in this matter will be most likely to read him in) are these.<note place="margin">Histor. Eccl. l. 3.5.</note>
+               <hi>Theophilus ad Indiam profectus est, multaque quae apud eos haud ritè fiebant, emendavit; nam &amp; sedentes audiebant lectiones Evangelicas, et alia quaedam fa<g ref="char:EOLhyphen"/>ciebant quae lex divina non praecipit.</hi> Which words by affirm<g ref="char:EOLhyphen"/>ing <hi>[that 'twas a fault, to be mended in them, to do some thing which the divine law commands not]</hi> seeme to conclude against all voluntary worship uncommanded by the word of God, as absolutely unlawfull; how justly you shall now discerne. To which purpose you must first observe, the words in the Greeke,
+<pb n="11" facs="tcp:121259:7"/> which in <hi>Gotofreds</hi> copy runne thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but in the manuscript in the publick Library, have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> instead of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; this undoubtedly is the truer reading, and the meaning of the word is, to admit, per<g ref="char:EOLhyphen"/>mit, or to use, <hi>invalescere, vel obtinere,</hi> to prevaile or obtaine for the usage of any thing. To which if you adde that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> signifies not the law or word of God, but the sacred Canons or customes of the Church (which beside other arguments is cleare, by <hi>Nicephorus</hi> his repeating those same words (out of <hi>Photius,</hi> for 'tis cleare by other evidences that <hi>Nicephorus</hi> made use of <hi>Photius's ecloga,</hi> and not of the entire copy of <hi>Philostorgius</hi>) only with this change of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Gotofred</hi> in his notes acknowledges) the product will then be only this, that the thing which in those <hi>Indians</hi> was amisse, and reformed by <hi>Theophilus,</hi> was the sitting at the reading of the Gospell, and doing some other things which the Ecclesiasticall or sacred Canons did not allow of, or use, for which they were not in force; and so the place will yeild us an authority from the antient Canons for standing at the reading of the Gospell, but offer us nothing which we shall need to quarrell with. He that is not satisfyed with this account which I have given him of this place, I shall desire, will consider whether it be probable that the sitting at the reading of the Gospell should goe for a fault, only because the Scripture commands it not. This I am confident will not be affirmed by the adversaries of my present assertions, who for the most part choose to sit at the reading of the Gospell, upon this very ground because standing at that time is not commanded in the Scripture. The case I conceive so cleare that I shall not farther enlarge upon it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>20</label> A third ground or occasion of this abuse of the word I sup<g ref="char:EOLhyphen"/>pose to be the affinity of the 18 verse of that chapter to the <hi>Coloss. [Let no man deceive you in a voluntary humility,</hi> &amp;c.] to this now in hand. For I am perswaded many men have not observed the great distance betweene them, and for want of doing so, have thought <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here subject to all the same charges which the worship of Angels is there guilty of, and so particularly of that crime of Superstition, which the worship<g ref="char:EOLhyphen"/>pers
+<pb n="12" facs="tcp:121259:8"/> of Angells cannot be freed from; especially seeing that they, like the Dogmatizers here, did teach that worship to be the will of God, and that God was honoured in the worship of those Officers of his;<note place="margin">De id<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lol. c. <hi>1.</hi>
+               </note> the errour which, as <hi>Maimonides</hi> ob<g ref="char:EOLhyphen"/>served, hath brought the greatest part of Idolatry first into the world, <hi>existimando hanc varietatem esse Dei voluntatem,</hi> when men conceived and taught that these vaine idolatrous or super<g ref="char:EOLhyphen"/>stitious worships were the will and pleasure of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>21</label> For the clearing of this matter, and rectifying the mistake I shall not doubt to affirme, that the prohibition in the 18 verse (though in some translations it seemes to belong to this matter of Will-worship, and consequently to set an ill character upon it,<note place="margin">Strom: l. <hi>3.</hi> p. <hi>447.</hi>
+               </note> and although <hi>Clemens Alexandrinus</hi> compound both these verses together, reading thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yet) will be found not at all to belong to it, if the Greeke text in that chapter be con<g ref="char:EOLhyphen"/>sulted with, and the Hebraisme in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be taken notice of</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>22</label> To which end you may observe these two things. 1. That the words are not in the originall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Now the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> hath in the Septuagints translation of the old Bible, (and by proportion may have also here) a sence which Atticall wri<g ref="char:EOLhyphen"/>ters have not taken notice of, and it will by Analogy be fittest rendred thus [pleasing himselfe, or delighting in humility and worshiping of Angels.] (or as Saint <hi>Hierome</hi> explaines it, <hi>Su<g ref="char:EOLhyphen"/>perbus fictâ humilitate,</hi> proud of a feined humility) as 1 <hi>Sam.</hi> 18.22. The Septuagint read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the English out of the Hebrew render [The <hi>King delighteth in thee,</hi>] and so 2 <hi>Sam.</hi> 15.26. and very often in other places, upon this ground or Originall that the Hebrew signifies both <hi>acquievit,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and <hi>voluit,</hi> to <hi>delight</hi> in, and to <hi>will;</hi> and so in the old Testament is rendred promiscuously, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>I am well pleas<g ref="char:EOLhyphen"/>ed,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>I will,</hi> and one sometimes used when the other would be more proper, (which custome is not unusuall in the new Testament, for thus you shall finde it, <hi>Mat:</hi> 27.43. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which though we there render, (<hi>Let him deliver him if he will have him,</hi> inserting the word
+<pb n="13" facs="tcp:121259:8"/>
+[have] and by that indeed somewhat changeing the sence,) yet <hi>Psal.</hi> 22.8. (whence 'tis apparent the words are taken, and where the Septuagints render <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) we render it, <hi>let him deliver him, if he delight in him.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>23</label> But besides, as this <hi>delight or will</hi> in this 18.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theophyl. in Col. cap. <hi>2.</hi>
+               </note> verse is fasten'd on an unlawfull thing, to wit <hi>worshiping of Angells</hi> (a thing not only not prescribed, but prohibited by God) and includes such an impious kind of mistaken humility that takes in o<g ref="char:EOLhyphen"/>thers either as mediatours to God, or as to be adored beside him (as the <hi>Angelici</hi> in the Christian Church, and the <hi>Esseni</hi> among the Jewes did) so and in this sence this worship (if you would from hence stile it <hi>Will-worship,</hi> or what you please) shall be without any difficulty acknowledged by me to be an unlawfull thing, as being the willing of that which God for<g ref="char:EOLhyphen"/>bids; which though it be readily granted, yet it will remaine true neverthelesse, that <hi>voluntary worship,</hi> where the matter is perfectly <hi>lawfull,</hi> not forbidden, nay <hi>approved</hi> by a <hi>Generall</hi> (though not commanded by any particular) <hi>precept,</hi> is farre e<g ref="char:EOLhyphen"/>nough from having any Tincture of evill in it. But this would deserve a larger discourse by way of Comment on that verse. In the mean while, this may serve to shew how groundlesse the mistake is that ariseth from hence.</p>
+            <p>The 4. and last occasion of this mistake which I shall ob<g ref="char:EOLhyphen"/>serve, is the use of a word in <hi>Epiphanius</hi> (which I perceive to be taken notice of by learned men) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which being attributed to the <hi>Pharisees</hi> there, (who, saith he, were so called for that reason, the word <hi>Pharisee</hi> coming from an <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>24</label> Hebrew primitive, which signifies <hi>seperation</hi> or <hi>discrimination,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and so denoting some performances in them, wherein they <hi>ex<g ref="char:EOLhyphen"/>ceeded</hi> other <hi>Jewes</hi>) may perhaps seem to be taken in an ill notion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>25</label> To which I answer 1. that if <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> were a de<g ref="char:EOLhyphen"/>notation of some ill, it would not yet necessarily prejudice <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which we speake of; because the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> added in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat word, noting <hi>aboundance</hi> or <hi>superfluity</hi> (which perhaps may referre either to some unlawfull, or at least vaine luxuriant matter, taken into that worship, as for example either prohi<g ref="char:EOLhyphen"/>bited
+<pb n="14" facs="tcp:121259:9"/>
+               <hi>objects,</hi> or noxious, at least burthenous in the number, or in the quality ridiculous <hi>ceremonies</hi>) might turne that into evill which the <hi>voluntarinesse</hi> or <hi>uncommandednesse</hi> of them were not able to do.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>26</label> But then Secondly, I cannot acknowledge, that that word is by <hi>Epiphanius</hi> there taken in an ill sense: all that the con<g ref="char:EOLhyphen"/>text enforces, is but this, that that is the meaning or interpre<g ref="char:EOLhyphen"/>tation of their name, and sure it is not necessary, that because the <hi>Pharisees</hi> were evill men, or had some great faults, there<g ref="char:EOLhyphen"/>fore their name signified some ill thing, for sure if their name was assumed by their owne choise, they would not be such ill carvers to themselves, (I am sure other <hi>Hereticks</hi> were not, as the <hi>Novatians</hi> called themselves <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>pure,</hi> and the Monta<g ref="char:EOLhyphen"/>nists <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the spirituall</hi> &amp;c.) and that it was imposed on them by other men 'tis not affirmed: and besides I remem<g ref="char:EOLhyphen"/>ber that some other antient writers interpret that name by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>separate or set apart to God,</hi>
+               <note place="margin">Chrysostome. Oecumenius. &amp;c.</note> and no man will thinke there is any hurt in that, save only the vanity of usurp<g ref="char:EOLhyphen"/>ing that title, and inclosing it from all others.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>27</label> The truth is, that was the maine crime that defamed the <hi>Pha<g ref="char:EOLhyphen"/>risees,</hi> their censorious proud despising of other men, whom they thought not so godly as themselves; and therefore I re<g ref="char:EOLhyphen"/>member 'tis Saint <hi>Chrysostome's</hi> advice, that when the Pharisee and the Publican are compared by <hi>Christ,</hi> and the Publican pre<g ref="char:EOLhyphen"/>ferr'd, we should be carefull, not to preferre the Publicans <hi>sins</hi> before the Pharisees <hi>good qualities,</hi> before his <hi>fasting,</hi> and <hi>tithing</hi> &amp;c. but only the Publicans <hi>humility</hi> before the Pharisees <hi>pride,</hi> the <hi>Publicans judging himselfe,</hi> before the <hi>Pharisees</hi> fastidious <hi>contemning</hi> of others. For the Pharisees exactnesse in those particulars neglected by others, or not observed in that height, is so farre from being reprehended in the scripture, that 1. <hi>'tis</hi> distinctly said, that the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>oportuit [these things ought yee to have done]</hi> belonged (to the doing of those other things o<g ref="char:EOLhyphen"/>mitted by them, <hi>judgement, mercy, and faith,</hi> and) not to the <hi>leaving</hi> those <hi>undone,</hi> which they did observe. 2. Saint <hi>Paul</hi> speaking not contumeliously or sarcastically, but sadly of him<g ref="char:EOLhyphen"/>selfe, calls that <hi>Sect</hi> of the <hi>Pharisees</hi> by an honourable title <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:121259:9"/>
+               <hi>Act.</hi> 26. <hi>a way of the greatest strict<g ref="char:EOLhyphen"/>nesse in religion.</hi> Which though it excuses not the Pharisees other faults, yet is farre from being it selfe any ill character, or leaving any blemish upon their voluntary religious performan<g ref="char:EOLhyphen"/>ces, wherein their superlative strictnesse consisted.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>28</label> To these I shall adde a third answer, which the learned cri<g ref="char:EOLhyphen"/>ticall writers concerning the Sects amongst the Jewes will au<g ref="char:EOLhyphen"/>thorize, that the originall of these Pharisees was from the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Hasidaei,</hi> who were so called for their excesse of pie<g ref="char:EOLhyphen"/>ty and charity, their voluntary performances above what the law required of them. These are mentioned 1 <hi>Mac.</hi> 2.42. and defined to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we render it voluntarily devoted to the law, but the phrase signifies those that in their obedience performed voluntarily some things which the law required not, and so differed from the <hi>Karraim</hi> or <hi>Karaei</hi> who did that only which was commended by law. Of both which compared together 'tis the learned and the Protestant <hi>Scaligers</hi> observation <hi>Elench Tribaeres, cap.</hi> 22. that as no man is re<g ref="char:EOLhyphen"/>quired to do more then is commanded him, (and so the <hi>Kar<g ref="char:EOLhyphen"/>raim</hi> are justified) so no man is to be quarrel'd with for doing better, when he is bound to do well, or for performing much when a mediocrity is required of him, and so the <hi>Hasidaei</hi> justi<g ref="char:EOLhyphen"/>fied also, and with them the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> we speak of. But when that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (saith he) became <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when those vo<g ref="char:EOLhyphen"/>luntary free-will-offerings began to be formed into precepts, and entered into bookes, then from <hi>Hasidi<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> or pious men, they became dogmatizers, laid obligation upon all to do as they did, and then being not obeyed in their severe presciptions, discri<g ref="char:EOLhyphen"/>minated themselves from all others, as the only obedient ser<g ref="char:EOLhyphen"/>vants of God, and so called themselves <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Pharisees, di<g ref="char:EOLhyphen"/>vided not only from the rest of the prophane world, which did not as they did, but from the very <hi>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sid<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> themselves, who performed as much as they, but thought not themselves oblig<g ref="char:EOLhyphen"/>ed by law to do so. Which being the notion of the Pharisees, may by <hi>Epiphanius</hi> be exprest and censured by the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as they, that in <hi>G<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> offended not in the Will-worship, did yet in the dogmatizing, and so the <hi>Hasidai</hi> we
+<pb n="16" facs="tcp:121259:10"/> may justifie, though not the Pharisees, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> though not the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> All this I thought not amisse to adde <hi>ex abundanti,</hi> more then the necessity of the present disquisi<g ref="char:EOLhyphen"/>tion required of me, that I might have my <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>voluntary oblation</hi> to present to the Reader also.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>29</label> Now for the third and last thing proposed, concernnig those voluntary oblations under the law, it will be worth ob<g ref="char:EOLhyphen"/>serving, first, that they were a part of the worship and service of God when they were performed, and therefore avowed by those <hi>Generall precepts</hi> which respect that worship of his. 2. that they were not commanded particularly by any <hi>particular</hi> command of God's in the law, but were left to every mans liber<g ref="char:EOLhyphen"/>ty (except it were in case of vow, which yet it was free to him not to make,) &amp; so were <hi>Spontaneous,</hi> not necessary. &amp; 3. that <hi>Lev.</hi> 22. there is a law, by which he that offers them is for<g ref="char:EOLhyphen"/>bid to offer them <hi>maimed or blemisht v.</hi> 20. from all which to<g ref="char:EOLhyphen"/>gether it appeares, that they were <hi>voluntary,</hi> and yet allowed by by God and accepted. And then I cannot see why there may not be somewhat in Christianity of the same constitution also, <hi>voluntary</hi> and not <hi>particularly</hi> imposed, and yet allowed by (and acceptable to) God, Nor why he that doth any such thing, may not be called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the oblation or action it selfe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Under which head or title I should place whatsoever may by the doctrine of the Gospell appeare to be <hi>acceptable</hi> to <hi>Christ;</hi> and yet is not <hi>commanded</hi> by any particu<g ref="char:EOLhyphen"/>lar command; or which is commanded for the <hi>act,</hi> but not for the <hi>specification</hi> of it to time, or place, or degree, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>30</label> Of which kind there be many particulars incident, both in the worship of God, and in actions of common life, if it were seasonable to insert them here. I shall only mention one or two <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. God commanded not <hi>David</hi> to build him a Temple, nor to make tender of that service, as will appeare 2 <hi>Sam.</hi> 7.5. &amp;c. Nay professes himselfe content to live in tents and tabernacles. And yet <hi>David's</hi> intention to build a Temple for God, that magnificent designe of his, though never so much exceeding God's command is very acceptable to God, as appeares by <hi>Nathans</hi> message to him in that place and <hi>Solo<g ref="char:EOLhyphen"/>mons</hi>
+               <pb n="17" facs="tcp:121259:10"/> comment upon it, 1 <hi>King.</hi> 8.18. Thou didst well that it was in thine heart. In like manner Saint <hi>Paul</hi> might have re<g ref="char:EOLhyphen"/>ceived hire for his labour from the <hi>Corinthians,</hi> but would not, he made the Gospell chargeles to them, and counts and calls this <hi>matter of boasting,</hi> 2 <hi>Cor.</hi> 11.9.10. This was a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in that A<g ref="char:EOLhyphen"/>postle towards his <hi>Corinthians.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>31</label> So againe he might have absteined from going up to <hi>Jeru<g ref="char:EOLhyphen"/>salem, Act</hi> 21. a Prophet told him that <hi>b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds expected him</hi> there, if he went, <hi>v.</hi> 11. and in that case to fly was justifiable by <hi>Mat.</hi> 10.23. yet <hi>Paul would neede goe up, v.</hi> 13. that was his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> againe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>32</label> Thus workes of mercy or Almes-giving are commanded by God; liberality and largenesse of hand and heart commended and promised a liberall reward, 2 <hi>Cor.</hi> 9.6. <hi>Laying by us weeke<g ref="char:EOLhyphen"/>ly in store,</hi> as God hath prospered us, is by Saint <hi>Paul</hi> appoin<g ref="char:EOLhyphen"/>ted, 1 <hi>Cor.</hi> 16.2. But then for the <hi>quotum,</hi> how much every rich man should set apart for this purpose out of his yearely re<g ref="char:EOLhyphen"/>venue, what proportion of the whole, whether a thirtieth, twentieth, or tenth part, is not at all particularly defined. Or supposing that one of these proportions were defined, namely the thirtieth part every yeare, (equivalent to the 10<seg rend="sup">th</seg> every 3<seg rend="sup">d</seg> yeare, which among the Jewes was designed for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the second <hi>or poore mans tithing</hi>) yet if I ac<g ref="char:EOLhyphen"/>knowledging this my duty, should yet resolve to exceed this proportion, and set aside a twentieth, or tenth, or fifth part of my estate, this must be acknowledged more then what I am particularly obliged to; and then so much of it as is more, will be my <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or free will offering, that now I speake of. Just as among the Jewes, that proportion which they were by Law obliged to, was called their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>their righteousnesse,</hi> which he that performed, satisfied the obligation of the Law in that behalfe; &amp; that which exceeded <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>aboundance</hi> or <hi>excellency of goodnesse,</hi> or mercy, or piety.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>33</label> In like manner prayer is a Christian duty, part of divine wor<g ref="char:EOLhyphen"/>ship; Orall prayer a part of that, and that in the Closet as well as the Congregation.</p>
+            <p>In the performance of this duly qualified, there is no doubt;
+<pb n="18" facs="tcp:121259:11"/> but the adjoining of bodily worship, whether of the eye, or hand, or knee, is not onely lawfull, but acceptable in the sight of God, yet these not commanded particularly by any <hi>particu<g ref="char:EOLhyphen"/>lar command</hi> of <hi>Christ,</hi> but onely avowed by the <hi>Generall com<g ref="char:EOLhyphen"/>mands</hi> of <hi>glorifying</hi> God in our <hi>bodies</hi> as well as <hi>spirits,</hi> by the example of approved presidents in the Scripture, &amp;c. Or if any shall conceive these to be under any particular command, then in stead of disputing against him, I shall suppose it, and proceed, and instance in prostration as a lowlier and bumbler act of bodi<g ref="char:EOLhyphen"/>ly worship then kneeling is, and this not affirmed to be parti<g ref="char:EOLhyphen"/>cularly commanded, and so voluntary, yet sure acceptable to God, if it flow from that vehement zeale of spirit and dimissi<g ref="char:EOLhyphen"/>on of mind, in confession and sence of sinne, that I shall hope it doth, and be not polluted by any appendant vanity, or cor<g ref="char:EOLhyphen"/>ruption, more then kneeling might be supposed to be, and then this is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> againe, a free will offering of the same kind also.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>34</label> So againe <hi>prayer</hi> is a duty commanded and for the frequency of using it <hi>incessant continuall prayer, i. e.</hi> say the learned in pro<g ref="char:EOLhyphen"/>portion to the <hi>continuall or daily sacrifices</hi> among the Jewes, prayer morning and evening every day, (or as the word used by Saint <hi>Paul,</hi> 1 <hi>Thes.</hi> 5.17. [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] is used by the Author of the first Booke of <hi>Macchabees, c.</hi> 12.11. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We remember then that every season incessantly, (i. e.</hi> as the rest of the verse explaines it) <hi>both in in our feasts and other con<g ref="char:EOLhyphen"/>venient dayes, in the sacrifices, and in our prayers, &amp;c.</hi> Not om<g ref="char:EOLhyphen"/>mitting the daily constant times of prayer and sacrifice.) To these two <hi>David</hi> and <hi>Daniell</hi> added a 3<seg rend="sup">d</seg> time, and a Christian now may sure doe well to improve it in publicke and private to six or seaven times a day; which number though counte<g ref="char:EOLhyphen"/>nanced by <hi>Davids</hi> resolution of <hi>[seven times a day will I praise thee.]</hi> Yet being not prescribed by <hi>Christ</hi> will be his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>free will-offering</hi> againe. The <hi>matter</hi> of it commanded, to wit, <hi>prayer,</hi> but not the frequent reiterating of it daily. For if it shall be pretended that the precept of praying <hi>incessantly</hi> doth par<g ref="char:EOLhyphen"/>ticularly designe this frequency, I shall answer that the [inces<g ref="char:EOLhyphen"/>sant] so interpreted, doth either require an interupted continu<g ref="char:EOLhyphen"/>ed prayer, in that sence as <hi>Paul</hi> in preaching, <hi>continued his speech
+<pb n="19" facs="tcp:121259:11"/> till midnight, Act.</hi> 20.7. (which to affirme is the heresy of the <hi>Euchitae;</hi> and that which the objector cannot in earnest thinke himselfe obliged to; For then ever to give over or in<g ref="char:EOLhyphen"/>termit, or doe any thing else, must be acknowledged a sinne) or else denotes particularly that definite number of seven times, which if it shall be affirmed, will first be proofelesse, and deni<g ref="char:EOLhyphen"/>ed as reasonably as demanded: and then 2. I shall adde one time more to my supposition, (and yet so as not to neglect the other duties of my calling) and that will be the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> I speake of.</p>
+            <p>If to all or any of these instances it be excepted or opposed that these may be supposed in Saint <hi>Paul, &amp;c.</hi> to be <hi>incitations</hi> and motions of the spirit, disobedience to (and resisting of) <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>35</label> which would have beene a sinne; I answer first that every such free-will offering is not a particular incitation or motion of the spirit, such as was observable in the Prophets of old, or indeed any farther then that signifies an act of a soule first renewed then assisted by the spirit of God. That spirit is a soule to the soule, and is to that as the soule to the body; the body having a soule, and animated by it, moves and workes by that principle, and so the soule animated and strengthen'd by Christ and his spirit, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>is able to doe all things,</hi> and actually doth them by the same strength.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>36</label> Not to enter any deeper into that question, then to this pre<g ref="char:EOLhyphen"/>present matter is necessary, that which I meane will be best un<g ref="char:EOLhyphen"/>derstood by noting the difference betweene the grace of san<g ref="char:EOLhyphen"/>ctification, and the spirit of prophecy so vulgarly knowne; and I desire it may be extended no farther then one example of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> will explaine and justify, set downe by way of narration, 2 <hi>Sam.</hi> 7. but repeated more clearely to our purpose, 1 <hi>King.</hi> 8.17.18. <hi>It was (saith</hi> Solomon) <hi>in the heart of</hi> David <hi>my father to build an house for the name of the Lord God of</hi> Israel, <hi>and the Lord said unto</hi> David <hi>my father, where as it was in thy heart to build an house unto my name, thou didst well that in was in thine heart, Neverthelesse thou shalt not build the house.</hi> On occasion of this passage I shall aske: was this which was in <hi>Davids</hi> heart, by the incitation of God in the sence that the objector understands incitation, or was it not? If it was, then God in<g ref="char:EOLhyphen"/>cited
+<pb n="20" facs="tcp:121259:12"/> him to doe somewhat which God had determined he should not doe; as 'tis plaine by the last words, <hi>Neverthelesse thou shalt not build.</hi> 1. I shall in charity hope the Reader will not affirme this that God incites, or inwardly moves to that which he will not have done; therefore the second must be re<g ref="char:EOLhyphen"/>solved on, that he did not incite; and yet the thing which was in <hi>Davids</hi> heart pleased the Lord, <hi>[Thou didst well that it was in thy heart]</hi> and thence it followes that what is in good mens hearts, what they resolve and doe, may be without this incita<g ref="char:EOLhyphen"/>tion of Gods, and yet be acceptable to him, which is the summe of the first part of my answer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>37</label> But then 2. I answer that if it be still called an incitation of God, yet having exprest what a kind of incitation it must be, the non-obedience to it will not be a sinne; for to make it so, it will be required, 1. That it be exprest to come from God. And 2. That it comes from him <hi>sub ratione praecepti,</hi> under the noti<g ref="char:EOLhyphen"/>on of a precept; whereas this incitation being supposed to be an inarticulate silent motion, not revealed in Scripture, or by voice from Heaven, or as the Prophets were, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>moved</hi> or <hi>carried by the Holy Ghost,</hi> 2 <hi>Pet.</hi> 2.21.) or by any other ex<g ref="char:EOLhyphen"/>traordinary way, so as to be clearely intelligible or discernible, whether it be from God or no, much lesse that it is a precept of Gods, it cannot be thus obliging as a precept would be, to which obedience is so due, that non-obedience would be sin.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>38</label> In breife this voluntary oblation, as every good gift or Chri<g ref="char:EOLhyphen"/>stian action, I shall acknowledge to descend <hi>from above, from the father of lights;</hi> and thereupon <hi>David</hi> put it into his Thankesgiving or <hi>Magnificat,</hi> 1 <hi>Chron,</hi> 29.14. (blessing God that the <hi>people offered so willingly.</hi>) But this will not conclude the particular, to which he or they were thus enabled and thus moved or inclined by God to be lesse, but rather more voluntary, the action being the action of the man, thus willingly doing what he is by God enabled and mo<g ref="char:EOLhyphen"/>ved by the spirit, (God working in him both to will and to doe, the first by his renewing, the second by his assisting grace) and voluntary working or operating upon that strength and motion, and then all that this inferres is the obligation to gra<g ref="char:EOLhyphen"/>titude,
+<pb n="21" facs="tcp:121259:12"/> to humility, and not <hi>boasting</hi> in them that have thus <hi>re<g ref="char:EOLhyphen"/>ceived,</hi> but not any kind of obligation to that particular action, for that must suppose a particular command.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>39</label> And there is great difference betweene these two, the pre<g ref="char:EOLhyphen"/>cept, and the grace. 1. in that the precept belongs (because given) to all, the grace to none but him that hath it, (and not obliging him neither, unlesse the matter of it be <hi>sub praecepto</hi> all<g ref="char:EOLhyphen"/>ready. <hi>i. e.</hi> unlesse the thing to which he is thus moved by the spirit of God, he were otherwise obliged to by some other command. (For in that case it is that Saint <hi>Stephens</hi> reproofe hath place. <hi>Act.</hi> 7.57. <hi>[Ye do alwaies resist the holy Ghost,]</hi> which in the case in hand we suppose him not to be) 2. Be<g ref="char:EOLhyphen"/>cause it is the designe of a precept to lay an obligation, and that <hi>sub periculo animae,</hi> if it be not obeyed; but of grace not so; but only to strengthen and incline, which he that makes use of as he should, is promised a reward for so doing, <hi>more grace</hi> here, (according to the parable of the talents concluded with <hi>haben<g ref="char:EOLhyphen"/>ti dabitur,</hi>) and a richer crowne or reward hereafter; And upon not using of it, threatned particularly with the withdraw<g ref="char:EOLhyphen"/>ing of the grace before given. <hi>Take from him the pound, &amp;c. Luk.</hi> 19.24. and whereas in Saint <hi>Matthew</hi> 'tis added <hi>[take him and cast him into utter darkenesse,]</hi> 'tis cleare by Saint <hi>Luk.</hi> that there was a precept of <hi>occupying. v.</hi> 13. to the neglect of which this punishment was apportioned. 2. I shall acknow<g ref="char:EOLhyphen"/>ledge, that the bringing God no returne of all his grace, is a great and damning sinne. But then thirdly, that comes not home to prove it a sinne, to omit the doing of any one particu<g ref="char:EOLhyphen"/>lar, in that degree which God's grace enables me to do, there being no obligation in this matter <hi>ad semper,</hi> or <hi>ad gradum</hi> to do it allwaies, or to do it in such a degree; though <hi>ad speciem</hi> (or that the thing be done) there be. For in the parable of the Talents, though the bringing in no increase at all be punished, yet the bringing in increase in a lower degree is accepted, and rewarded according to its proportion; he that <hi>had of his pound made five pounds. Luk.</hi> 19.18. is <hi>rewarded with five Cities,</hi> as well as he that <hi>had gained ten pounds is rewarded</hi> with ten.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>40</label> If againe it be objected, that, all concomitant circumstances
+<pb n="22" facs="tcp:121259:13"/> considered, nothing remaines free and voluntary, and that af<g ref="char:EOLhyphen"/>firmation proved by this, because in this case prudence added to other Christian rules of piety, mercifullnesse, &amp;c. will re<g ref="char:EOLhyphen"/>quire us to do that which is fittest to be done.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>41</label> To this I answer. 1. That every man is not bound under paine of sinne to be prudent, or pious, or mercifull in such a de<g ref="char:EOLhyphen"/>gree; there is a great latitude in prudence, and in piety, and in mercifullnesse. I may give so much, as will denominate me mercifull, and pray so often as to denominate me pious, and yet be capable of growing in each of these graces; nay I may in prudence give so much to such a man, and yet this not so con<g ref="char:EOLhyphen"/>sist in an indivisible point, but that if I had given lesse, or given more, it might have beene prudent too.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>42</label> It is, I confesse, possible to offend against prudence in too prodigall a giving, as in too parsimonious against piety, and then I shall not justifie that imprudence any more, then excuse that unmercifullnesse, I desire my voluntary oblations may be free from both, but then still the possibility and danger of such faults in the extremes proves not either the unlawfullnesse or necessity of any other degree which is within those extremes, but still allowes a latitude within which one may be more or lesse mercifull, and yet <hi>mercifull</hi> still, yea and <hi>prudent</hi> too. 2. though prudentiall considerations do alwayes help to direct us, yet do they not allwayes command or lay obligations upon us, and therefore are still compatible with voluntary oblati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>43</label> For if it be affirmed from prudentiall considerations, that a man (knowing the greatest perfection, to be most gloriously rewarded, and that reward farre above all other designes, that to the neglecting of that he may fasten upon,) ought therefore, and is bound to aspire to perfection, and not to content him<g ref="char:EOLhyphen"/>selfe with any thing but the best. To this I answere, that this whole reasoning is false.</p>
+            <p>For 1. although <hi>prudence</hi> would advise one to this, yet doth it not lay any command which hath power of obliging so, as not to obey will be presently sinfull; for if any such command be supposed, it ceases to be prudentiall, and becomes necessary,
+<pb n="23" facs="tcp:121259:13"/> and meane while by being only prudentiall, appeares to be un<g ref="char:EOLhyphen"/>der no such command.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>45</label> 2. Though 'tis <hi>prudent</hi> to use those meanes which may ad<g ref="char:EOLhyphen"/>vance us highest in glory, and though perfection will do that, yet 'twill not be alwaies <hi>prudence</hi> to undertake the way of per<g ref="char:EOLhyphen"/>fection, because that being to high steep, may be also a dange<g ref="char:EOLhyphen"/>rous way, <hi>every man cannot receive it,</hi> faith the Apostle, and for him that cannot overcome the difficulties to resolve upon the course, may perhaps be precipitious. and even the precept of God may interpose sometimes, and trash us, and make it un<g ref="char:EOLhyphen"/>lawfull for us to aspire to the most perfect estate; as if the dis<g ref="char:EOLhyphen"/>charge of a duty of our calling should a wait us on one side, and an opportunity of Martyrdome on totherside, then in that case obedience will be better then that richest sacrifice; and as <hi>Cy<g ref="char:EOLhyphen"/>prian,</hi> though most passionately desirous of Martyrdome, yet on such an occasion avoyded it, when he was neare it, and, (as <hi>Diaconus</hi> saith of him,) <hi>maluit praeceptis Dei obedire, quam vel sic coronari,</hi> he preferr'd the conscience of his duty before the glory of such a crowne, so may it be resolved the Christians duty sometimes not to aspire to <hi>some perfection.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>46</label> But then 3. the perfection that we are by Christ command<g ref="char:EOLhyphen"/>ed to aspire to, is capable of degrees, for if you compare <hi>Mat.</hi> 5.48. where that precept is given <hi>[be ye perfect, as your father in heaven is perfect]</hi> with <hi>Luk.</hi> 6.36. where the same passage is recited, or if you consult the context in either place, you will finde that <hi>perfection</hi> to signifie mercifullnesse, and so <hi>Mat.</hi> 19.21. <hi>If thou wilt be perfect, sell all, and give to the poore]</hi> which is another argument that that is the meaning of <hi>perfe<g ref="char:EOLhyphen"/>ction,</hi> and then the same degrees that are in mercifullnesse, will be in perfection also. Or if you will not admit of that sence, yet if it be any perfection acquirable in this life, 'twill be capable of degrees and growth also; or if it be not here ac<g ref="char:EOLhyphen"/>quirable, 'tis certainly not under Evangelicall precept now, that <hi>light, i. e.</hi> supportable <hi>burthen,</hi> that rode of <hi>not greivous, i. e.</hi> possible commands, which he and his grace brought into the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>47</label> As for that ordinary saying that seemes so plausible, that e<g ref="char:EOLhyphen"/>very
+<pb n="24" facs="tcp:121259:14"/> one is bound to do that which is best, it is most discerna<g ref="char:EOLhyphen"/>bly false (and that which a world of falsities are built on) which to prove I shall need no farther testimony; then that of the A<g ref="char:EOLhyphen"/>postle 1 <hi>Cor.</hi> 7.28. <hi>(he that giveth in marriage doth well, and he that giveth not, doth better)</hi> nor argument then this, that the best being a <hi>superlative</hi> supposes the <hi>positive</hi> to be good; whereas if all were bound to do that which is <hi>best,</hi> that which were <hi>only good</hi> were <hi>evill,</hi> for so is that whatever it is, which comes short of what we are bound to.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>48</label> Once more, if it be objected that whatever is thus perform<g ref="char:EOLhyphen"/>ed, is commanded by those large inclusive words <hi>[thou shalt love the Lord thy God, with all thy heart, with all t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y soule &amp;c.]</hi> nothing being of such latitude, as that the <hi>(with all)</hi> should not contein it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>49</label> I answere, that that phrase denoteth two things only, first <hi>sincerity</hi> of this love of God, as opposed to <hi>partiall divided love</hi> or service. 2. the loving him above all other things, and not admitting any thing into competition with him, not loving a<g ref="char:EOLhyphen"/>ny thing else in such a degree; and in neither of these respects excluding all other things from a subordinate place in our love; which being supposed, twill be easie to discerne that this sin<g ref="char:EOLhyphen"/>cere love of God above all, is capable of degrees, and that it is very possible for two men <hi>to love God with all their hearts, i. e.</hi> sincerely and above all other things, and so both to obey that precept, and yet one to love him in a more intense degree, then the other doth. (Which may be observed amongst the An<g ref="char:EOLhyphen"/>gels themselves, the <hi>Seraphin</hi> being so called, because they are more ardent in Zeale, then other Angels.) Nay for the same person constantly to love God above all, and yet to have higher expressions of that love at one time then another. Thus we read of <hi>Christ</hi> himselfe. <hi>Luk.</hi> 22.24. (who we know did never faile in performing what was mans duty, in prayer, or any thing else. Yet) that he at that time prayed more earnest<g ref="char:EOLhyphen"/>ly; which is a demonstrative evidence, that the lower degree is not necessarily sinfull, when the higher is acceptable to God. Which when it is granted, there is no doubt, but these free-will-offerings will be reconcileable with that command, and
+<pb n="25" facs="tcp:121259:14"/> he that loves God withall his heart may have some <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ossibility of loving God better the<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet he doth, and so some roome left for a voluntary oblation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>50</label> I desire to foresee the worst that is imaginable, and there<g ref="char:EOLhyphen"/>fore though in conscience very guiltlesse, and free from having any favourable thoughts of the doctrine of supererogation a<g ref="char:EOLhyphen"/>mong the <hi>Romanists,</hi> shall yet conceive it possible for some bo<g ref="char:EOLhyphen"/>dy to be so unwary as to adde that objection to the former, that this may tend to the asserting of that doctrine, that if it be ac<g ref="char:EOLhyphen"/>knowledged possible for a Christian to doe more then he is commanded, he may then supererogate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>51</label> To which I answer. 1. That there is great difference be<g ref="char:EOLhyphen"/>tweene affirming that a man may doe more <hi>then is commanded,</hi> and that he may doe <hi>something which is not commanded,</hi> the for<g ref="char:EOLhyphen"/>mer supposes him that doth more, to have done all, whereas the second may be true, though in most or all other things he have beene wanting. Now it is the second we assert, not the former; which being supposed,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>52</label> I answer 2<seg rend="sup">ly</seg>. That to supererogate supposeth one of these two things, either that the person spoken of hath paid God all that is due to him, by way of perfect obedience, <hi>i. e.</hi> hath never sinned. Or 2. That having sinned and so become a debtor to God, he hath paid that debt by satisfaction, <hi>i. e.</hi> done some<g ref="char:EOLhyphen"/>thing else which may satisfy God for his former sinnes, the lat<g ref="char:EOLhyphen"/>ter of which is the way which the <hi>Romanists</hi> pitch upon, and not contenting themselves with the satisfaction wrought by <hi>Christ,</hi> teach doctrine of their owne satisfaction, which, say they, they may performe so farre, as not onely to satisfy for their owne sinnes, but also to doe more then so, helpe toward the raising of a banke, or treasure for others also, and that is it they meane by superogating.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>53</label> Now from either of these our present doctrine is perfectly free; for 1. it supposeth no perfect obedience, but willingly yeildeth as much of the corruption of our nature, and of our daily failings and trespasses, as ever any Catholique affirmed a<g ref="char:EOLhyphen"/>gainst <hi>Pelagius.</hi> And 2. Supposing every man to have sinned, it pretendeth not to the least degree of satisfaction to God for
+<pb n="26" facs="tcp:121259:15"/> any the least <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one to be wrought by any meanes, but onely th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sufferings of <hi>Christ,</hi> and so is out of all possibility of thinking to supererogate, acknowledging so heavy an arreare of sinne ly<g ref="char:EOLhyphen"/>ing unremoveably upon every ones score, if God be not mer<g ref="char:EOLhyphen"/>cifully pleased to accept of <hi>Christs</hi> sufferings for perfect satis<g ref="char:EOLhyphen"/>faction, that there is nothing compasseable by us, or within one reach; that can satisfy for any the least sinne we have commit<g ref="char:EOLhyphen"/>ted; and from thence 3. forbiddeth any the most justified man to pretend toward satisfying for others; but to <hi>worke out his owne salvation with feare and trembling, i. e.</hi> with all the humili<g ref="char:EOLhyphen"/>ty in the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>54</label> If I could foresee any farther scruples or difficulties in this matter, I should be as free in producing them, as in these I have beene, and find no reason to feare, but that by Gods helpe I should be able to satisfy them also. In the meane, till by the face of this paper I be farther instructed, I have no temptation to importune or detaine the Reader any farther, then with my prayers for him, that the Lord give him a right understanding in all things.</p>
+            <q>He that soweth sparingly shall reape sparingly, and he that soweth bountifully shall reape bountifully. Every man according as he purposeth in his heart, not grudgingly, or of necessity, for God lo<g ref="char:EOLhyphen"/>veth a chearefull giver. <bibl>
+                  <hi>2</hi> Cor. <hi>6, 7.</hi>
+               </bibl>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
